@@ -1,11 +1,7 @@
 <!-- Profile README for firewolfxd12 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:0f172a&height=110&section=header&text=Nicholas%20Swain%20Durbin&fontColor=ffffff&fontSize=30" alt="header" />
-</div>
-
-<div align="center">
-  <sub>ML systems · Agentic frameworks · LLM infrastructure</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=600&color=0F172A&center=true&vCenter=true&width=760&lines=Nicholas+Swain+Durbin;ML+systems;Agentic+frameworks;Tool+coordination" alt="typing" />
 </div>
 
 <br />
@@ -34,4 +30,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firewolfxd12&show_icons=true&theme=transparent&title_color=0f172a&text_color=334155&icon_color=0f172a&border_color=e2e8f0" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=firewolfxd12&theme=transparent&ring=0f172a&fire=0f172a&currStreakLabel=334155&border=e2e8f0" alt="streak" />
 </div>
