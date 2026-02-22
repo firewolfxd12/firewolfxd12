@@ -4,21 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=650&color=0F172A&center=true&vCenter=true&width=760&lines=Nicholas+Swain+Durbin;ML+systems;Agentic+frameworks;Tool+coordination" alt="typing" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c2ff,100:ff4da6&height=6&section=header" alt="accent" />
-</div>
-
 <br />
 
 <div align="center">
-  <a href="mailto:nickdurbin2004@gmail.com">Email</a>
-  ·
-  <a href="https://t.me/nicksdurbin">Telegram</a>
-  ·
-  Saint Petersburg, Russia
+  <a href="mailto:nickdurbin2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nickdurbin2004%40gmail.com-111827?style=flat&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://t.me/nicksdurbin">
+    <img src="https://img.shields.io/badge/Telegram-@nicksdurbin-111827?style=flat&logo=telegram&logoColor=white" alt="telegram" />
+  </a>
+  <img src="https://img.shields.io/badge/Saint%20Petersburg-Russia-111827?style=flat&logo=google-maps&logoColor=white" alt="location" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c2ff,100:ff4da6&height=6&section=header" alt="accent" />
+</div>
 
 <div align="center">
   <strong>Actively interested in practical agentic frameworks for coordinating tools, state, and execution in real systems.</strong>
