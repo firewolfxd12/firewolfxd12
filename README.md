@@ -16,7 +16,6 @@
   <a href="https://nickdurbin04.github.io/nickdurbin04/">
     <img src="https://img.shields.io/badge/Website-20242b?style=flat&labelColor=111827&logo=githubpages&logoColor=5DE1FF" alt="website" />
   </a>
-  <img src="https://img.shields.io/badge/Location-20242b?style=flat&labelColor=111827&logo=google-maps&logoColor=5DE1FF" alt="location" />
 </div>
 
 <br />
