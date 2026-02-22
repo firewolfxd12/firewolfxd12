@@ -1,7 +1,7 @@
 <!-- Profile README for firewolfxd12 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=650&color=9B6CFF&center=true&vCenter=true&width=760&lines=Nicholas+Swain+Durbin;ML+systems;Agentic+frameworks;Tool+coordination" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=650&color=374151&center=true&vCenter=true&width=760&lines=Nicholas+Swain+Durbin;ML+systems;Agentic+frameworks;Tool+coordination" alt="typing" />
 </div>
 
 <br />
