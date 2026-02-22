@@ -1,24 +1,25 @@
 <!-- Profile README for firewolfxd12 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=650&color=0F172A&center=true&vCenter=true&width=760&lines=Nicholas+Swain+Durbin;ML+systems;Agentic+frameworks;Tool+coordination" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=650&color=4B5563&center=true&vCenter=true&width=760&lines=Nicholas+Swain+Durbin;ML+systems;Agentic+frameworks;Tool+coordination" alt="typing" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="mailto:nickdurbin2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nickdurbin2004%40gmail.com-111827?style=flat&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-nickdurbin2004%40gmail.com-2b2f36?style=flat&labelColor=111827&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://t.me/nicksdurbin">
-    <img src="https://img.shields.io/badge/Telegram-@nicksdurbin-111827?style=flat&logo=telegram&logoColor=white" alt="telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@nicksdurbin-2b2f36?style=flat&labelColor=111827&logo=telegram&logoColor=white" alt="telegram" />
   </a>
-  <img src="https://img.shields.io/badge/Saint%20Petersburg-Russia-111827?style=flat&logo=google-maps&logoColor=white" alt="location" />
+  <a href="https://nickdurbin04.github.io/nickdurbin04/">
+    <img src="https://img.shields.io/badge/Website-nickdurbin04.github.io-2b2f36?style=flat&labelColor=111827&logo=githubpages&logoColor=white" alt="website" />
+  </a>
+  <img src="https://img.shields.io/badge/Saint%20Petersburg-Russia-2b2f36?style=flat&labelColor=111827&logo=google-maps&logoColor=white" alt="location" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c2ff,100:ff4da6&height=6&section=header" alt="accent" />
-</div>
+<br />
 
 <div align="center">
   <strong>Actively interested in practical agentic frameworks for coordinating tools, state, and execution in real systems.</strong>
